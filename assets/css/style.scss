@@ -1,0 +1,79 @@
+---
+---
+
+@import "{{site.theme}}";
+
+#header {
+}
+
+#header #logo {
+    display: inline-block;
+}
+
+#header #logo img {
+    width: 140px;
+}
+
+#header #copy {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 40px;
+}
+
+#header #copy a{
+    color: #fff;
+}
+
+
+header {
+    padding-bottom:  0px;
+}
+
+
+.blogpost {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #efefef;
+}
+
+.blogpost h3 {
+    font-size: 12px;
+    margin: 0;
+    padding:0;
+}
+
+.blogpost img {
+
+}
+
+.blogpost a {
+    clear: both;
+    display: block;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.blogpost p.description {
+    display: inline-block;
+}
+.blogpost .thumb {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.nav-item .release-date {
+    font-size:12px;
+    font-weight: bold;
+}
+
+
+.recommended a img {
+    width: 200px;
+}
+
+.about-with-picture img{
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+}
