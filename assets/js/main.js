@@ -14,23 +14,25 @@ $(window).resize(sectionHeight);
 
 $(function() {
 
-  if(window.location.pathname == '/') {
+  if(window.location.pathname == '/') { //If this is our home
     $("section h2").each(function(){
       let $next = $($(this).siblings("h3")[0])
-      $("nav ul").append( ["<li class='nav-item tag-" + this.nodeName.toLowerCase() + "'>",
+      $("nav#posts ul").append( ["<li class='nav-item tag-" + this.nodeName.toLowerCase() + "'>",
                               "<a href='#" + $(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,'') + "'>",
                               $(this).text() ,
                               " <span class=\"release-date\">(" + $next.text() + ")</span>",
                               "</a></li>"].join(""));
       $(this).attr("id",$(this).text().toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g,''));
-      $("nav ul li:first-child a").parent().addClass("active");
+      $("nav#posts ul li:first-child a").parent().addClass("active");
     });
+  } else {
+    $("#posts").hide()
   }
 
-  $("nav ul li").on("click", "a", function(event) {
+  $("nav#posts ul li").on("click", "a", function(event) {
     var position = $($(this).attr("href")).offset().top - 190;
     $("html, body").animate({scrollTop: position}, 400);
-    $("nav ul li a").parent().removeClass("active");
+    $("nav#posts ul li a").parent().removeClass("active");
     $(this).parent().addClass("active");
     event.preventDefault();
   });
