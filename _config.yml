@@ -3,3 +3,5 @@ future: true
 google_analytics: true
 title: My Writing Corner
 twitter_username: deleteman123
+plugins:
+  - jekyll-sitemap
