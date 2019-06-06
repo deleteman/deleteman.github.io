@@ -1,7 +1,7 @@
 ---
 title: "Should I start a blog?"
 comments: true
-image: blogposts/writing.jpeg
+image: assets/images/blogposts/writing.jpeg
 description: Find out if blogging is for you with these top 10 reasons whether you should start a blog.
 ---
 
