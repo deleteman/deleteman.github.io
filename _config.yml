@@ -3,6 +3,14 @@ future: true
 google_analytics: true
 title: My Writing Corner
 twitter_username: deleteman123
+author: "Fernando Doglio"
+twitter:
+    card: summary
+social:
+    name: "My Writing Corner"
+    links:
+      - https://twitter.com/corner_writing
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
