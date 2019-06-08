@@ -118,7 +118,7 @@ So here they are:
 
 #### Grammarly 
 ![Image](/assets/images/blogposts/grammarly-ss.png)
-Grammarly will review your text and provide feedback about it. For free, you're a bit limited, you get things like spelling mistakes and a total score based on a set of goals you set for your text. You can set goals like:  wanting to have an informative general and informally mild article or a descriptive formal article aimed for experts. Based on your goal setup, Grammarly will review your text and tell you how close you are to them.
+[Grammarly](https://grammarly.go2cloud.org/aff_c?offer_id=182&aff_id=42324) will review your text and provide feedback about it. For free, you're a bit limited, you get things like spelling mistakes and a total score based on a set of goals you set for your text. You can set goals like:  wanting to have an informative general and informally mild article or a descriptive formal article aimed for experts. Based on your goal setup, Grammarly will review your text and tell you how close you are to them.
 Additionally, if you were willing to spend some money on it, Grammarly will provide:
 - Feedback on word choice
 - Wordy sentences
