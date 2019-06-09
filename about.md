@@ -1,7 +1,7 @@
 # About My Writing Corner
 
 <div class="about-with-picture" markdown="1">
-![Image](./assets/images/photo.jpg)
+![Fernando Doglio](./assets/images/photo.jpg)
 
 Hello there! Thanks for checking out my small little corner on the Internet. My name is Fernando Doglio, I'm a Technical Manager, who's been working as a technical writer for the past year or so, and I'd like to think I've learned a few things along the way.
 In this site, I want to share all that learning with everyone interested in creating a brand new blog, learning the best tools and techniques used to write great blog posts and eventually, why not, try to get some money out of the whole deal.

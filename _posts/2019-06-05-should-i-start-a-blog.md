@@ -3,12 +3,15 @@ title: "Should I start a blog?"
 comments: true
 image: assets/images/blogposts/writing.jpeg
 description: Find out if blogging is for you with these top 10 reasons whether you should start a blog.
+author: Fernando Doglio
+twitter:
+    username: corner_writing
 ---
 
 ## Should I start a blog?
 ### 06/04/2019
 
-![Image](/assets/images/blogposts/writing.jpeg)
+![Should I start a blog](/assets/images/blogposts/writing.jpeg)
 
 _That question is always nagging the back of our mind, should I start my own blog? Is blogging the right platform to reach my intended audience? 
 Should I instead go to YouTube? Keep reading and I'll try to help you decide._

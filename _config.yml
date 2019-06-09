@@ -2,10 +2,11 @@ theme: jekyll-theme-leap-day
 future: true
 google_analytics: true
 title: My Writing Corner
-twitter_username: deleteman123
-author: "Fernando Doglio"
+author: Fernando Doglio
 twitter:
     card: summary
+    username: corner_writing
+
 social:
     name: "My Writing Corner"
     links:
