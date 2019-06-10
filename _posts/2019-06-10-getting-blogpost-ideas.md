@@ -1,17 +1,17 @@
 ---
-title: "No idea what to write about? Try these 6 tips guaranteed to help you generate ideas for your blog posts"
+title: "No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts"
 comments: true
 image: assets/images/blogposts/ideas-for-articles.png
-description: If you're running out of ideas for blog posts, try these 6 tips to help you get back on track.
+description: If you're running out of ideas for blog posts, try these 5 tips to help you get back on track.
 ---
 
-# No idea what to write about? Try these 6 tips guaranteed to help you generate ideas for your blog posts
+# No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
 ![What should I write about?](/assets/images/blogposts/ideas-for-articles.png)
 
 You got your blog, you set everything up, hosting, domain name, you actually took three days to define the perfect theme and now everything looks just right. _What now?_
 You're supposed to be writing content now, but what? That's the main question, and here you'll find some tips & tricks I (and others) use to make the jump from _wanting_ to write about something into _knowing_ what to write about.
 
-## Enlist your search engine's help 
+## 1. Enlist your search engine's help 
 Say you've decided to write about fitness, now that you have your blog ready, go to [Google.com](www.google.com) and type _fitness_ and then, hit the space key. Don't hit enter yet, just wait and read the suggestions. Google is actually telling you right there and now what others are searching for in your particular niche. Cool isn't it?
 You can keep doing this with different word combinations and figure out the type of topics that people care about. You can even take it one step further, and go into [Google's keyword planner](https://ads.google.com/) and sign up for it. Once inside, ignore all warnings and messages, just click on the planner link and enter the set of keywords you came up with in the previous step, after that Google will give you more insight into how popular (on unpopular) they are.
 Using these two tools, you can come up with many ideas for your particular niche.
@@ -20,7 +20,7 @@ The best part about this is that Google isn't the only search engine that can he
 
 Give it a try!
 
-## Follow your reader's path
+## 2. Follow your reader's path
 This one requires a bit more of an understanding of your own niche. It shouldn't be a problem for you, mind you, since you're supposed to know about it already (otherwise, stop, forget about writing for a second and start reading about what you need to write about).
 The idea behind this technique is to follow the natural path of your reader's interest. 
 
@@ -34,13 +34,13 @@ You get the point, just follow their path as if it was your own. Just remember t
 
 This technique can be applied to any niche really, you just need to sit down and plan the path for a bit, in fact, I would suggest using some form of planning tool, such as [Trello](www.trello.com), so the great ideas you come up with but don't have time to implement yet, aren't lost.
 
-## Create a how-to guide
+## 3. Create a how-to guide
 People usually jump online for one of two things: entertainment or problem-solving. So a good way to pick a topic to write about is to go at it as a "How-to guide". "How to create a blog", "How to stay fit when traveling", "How to make it to the end of the month with a minimum wage", you get the picture.
 The moment you start your thinking process saying "How to...", then everything becomes writable content, and you can start writing down all your ideas down because guaranteed, you'll get a ton!
 Granted, maybe writing a bunch of "How-to guides" isn't what you want to do with your blog, that's not why you started it. And mind you, you have all the right in the world to think that way. But you also have to remember, if you're reading this, it might be because you go through some ideas-less periods where you can't think about what to write about, even if your life depended on it. So maybe to get the proverbial creative juices going, this could still be a great move, so don't ignore it.
 
 
-## Interview other users
+## 4. Interview other users
 This is a great idea to drive traffic to your blog as well as helping you fill that gap you're having with the list of ideas on what to write about. 
 Make a list of people you'd like to interview and are related to the niche/topic of your site and then just reach out to them. There are many ways to do it, especially if you're targeting people who share your interests (or those of your blog anyway).
 Here is what you'd do:
@@ -53,7 +53,7 @@ The key here is to first come up with a set of questions, at least that way you 
 
 Finally, once you have their answers, get into your blogging platform of choice and copy & paste them, add a few lines of introduction and a few conclusion lines, and you have yourself an article (more than one hopefully if your pitch got a good response from others).
 
-## Product reviews
+## 5. Product reviews
 Finally, as a last idea-generating technique, just try to think about the product's you're using. They might be physical products, like weights or training bands, they could subscriptions sending you monthly goods over mail or they could very well, be digital products or services you consume daily. In any case, if you're blogging about _literally anything_, you can probably think of a product or a service you could review for the benefit of your readers. 
 The great part about this, is that if you can get affiliate links for whatever you're reviewing, then you're not just helping your reader understand whether they should or shouldn't use it (which should be your focus by the way), but are potentially getting money back if you convince them to buy the product through your link.
 So, with this tip, you get an idea _and_ potentially a monetary reward for writing it. I don't know how to beat that honestly, so I'm just going end the list here.

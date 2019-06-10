@@ -1,6 +1,6 @@
 
 <div class="blogpost" markdown="1"> 
-## No idea what to write about? Try these 6 tips guaranteed to help you generate ideas for your blog posts
+## No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
 ### 06/10/2019
 <div class="thumb" markdown="1">
 ![Best blogging tools 2019](./assets/images/blogposts/ideas-for-articles.png)
