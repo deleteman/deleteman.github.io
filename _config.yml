@@ -4,7 +4,7 @@ google_analytics: true
 title: My Writing Corner
 author: Fernando Doglio
 twitter:
-    card: summary
+    card: summary_large_image
     username: corner_writing
 
 social:
