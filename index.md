@@ -1,5 +1,21 @@
 
 <div class="blogpost" markdown="1"> 
+## No idea what to write about? Try these 6 tips guaranteed to help you generate ideas for your blog posts
+### 06/10/2019
+<div class="thumb" markdown="1">
+![Best blogging tools 2019](./assets/images/blogposts/ideas-for-articles.png)
+</div>
+<p class="description" markdown="1">
+You got your blog, you set everything up, hosting, domain name, you actually took three days to define the perfect theme and now everything looks just right. _What now?_
+You're supposed to be writing content now, but what? That's the main question, and here you'll find some tips & tricks I (and others) use to make the jump from _wanting_ to write about something into _knowing_ what to write about.
+</p>
+
+[Read more](./2019/06/10/getting-blogpost-ideas.html) 
+</div>
+
+
+
+<div class="blogpost" markdown="1"> 
 ## It's time to take your game to the next level with these 12 blogging tools
 ### 06/07/2019
 <div class="thumb" markdown="1">
