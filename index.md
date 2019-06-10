@@ -1,6 +1,6 @@
 
 <div class="blogpost" markdown="1"> 
-## It's time to take your blogging game to the next level  with these 12 tools
+## It's time to take your game to the next level with these 12 blogging tools
 ### 06/07/2019
 <div class="thumb" markdown="1">
 ![Best blogging tools 2019](./assets/images/blogposts/best-tools.png)

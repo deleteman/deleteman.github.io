@@ -1,11 +1,11 @@
 ---
-title: "It's time to take your blogging game to the next level  with these 12 tools"
+title: "It's time to take your game to the next level  with these 12 blogging tools"
 comments: true
 image: assets/images/blogposts/best-tools.png
 description: Find the best blogging tools for 2019 and what you can do with them to improve your blogging-foo into the next level.
 ---
 
-# It's time to take your blogging game to the next level  with these 12 tools
+# It's time to take your game to the next level  with these 12 blogging tools
 ### 06/07/2019
 
 ![Best blogging tools 2019](/assets/images/blogposts/best-tools.png)
