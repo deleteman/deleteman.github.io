@@ -1,6 +1,9 @@
 ---
 title: "No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts"
 comments: true
+author:
+    twitter: deleteman123
+    name: Fernando Doglio
 image: assets/images/blogposts/ideas-for-articles.png
 description: If you're running out of ideas for blog posts, try these 5 tips to help you get back on track.
 ---

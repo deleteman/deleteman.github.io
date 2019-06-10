@@ -4,6 +4,9 @@ comments: true
 image: assets/images/blogposts/writing.jpeg
 description: Find out if blogging is for you with these top 10 reasons whether you should start a blog.
 author: Fernando Doglio
+author:
+    twitter: deleteman123
+    name: Fernando Doglio
 twitter:
     username: corner_writing
 ---

@@ -1,6 +1,9 @@
 ---
 title: "It's time to take your game to the next level  with these 12 blogging tools"
 comments: true
+author:
+    twitter: deleteman123
+    name: Fernando Doglio
 image: assets/images/blogposts/best-tools.png
 description: Find the best blogging tools for 2019 and what you can do with them to improve your blogging-foo into the next level.
 ---
