@@ -9,7 +9,7 @@ In this site, I want to share all that learning with everyone interested in crea
 
 ## Read some of my work
 
-Here's a brief list of my published work in case you're interested in checking out where I come from. 
+Here's a brief list of my published work in case you're interested in checking out where I come from, as well as my personal [Website / Dev blog](http://www.fdoglio.com) if you'd like to know more about me.
 
 **Full disclosure:** some of these links are affiliate links, meaning if you buy the books through the links I get a little extra without adding anything to your total.
 
