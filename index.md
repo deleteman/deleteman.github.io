@@ -1,3 +1,19 @@
+<div class="blogpost" markdown="1"> 
+## 5 steps to starting your own blog for FREE
+### 06/18/2019
+<div class="thumb" markdown="1">
+![Starting a blog for free](./assets/images/blogposts/blog-for-free.jpg)
+</div>
+<p class="description" markdown="1">
+So, you're thinking about starting a blog, but the idea of you making it as a fulltime blogger is too strange, isn't it? You might want to first dip your toe in the blogging waters and check the temperature, just in case it isn't what you were hoping it would be.
+And because of that, you don't really want to spend all the money the pros are suggesting in order to get started, do you?
+Fear not! I have the answer for you!
+</p>
+
+[Read more](./2019/06/18/blog-for-free.html) 
+</div>
+
+
 
 <div class="blogpost" markdown="1"> 
 ## No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts

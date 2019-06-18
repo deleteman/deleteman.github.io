@@ -38,8 +38,8 @@ When it comes to turning your visits into possible leads (basically, someone who
 They provide several tools, such as form creation, allowing you to customize the way you capture email addresses. You can keep user lists and email them with news and offers. Another very useful feature they provide is the ability to add share buttons for every single social network out there. If you're looking for a way to add them, Sumo can help you do it quickly.
 And last but not least, they also provide very stylized Smart Call to Action bars, allowing you to get your users' attention into specific offers you might have.
 Finally, and to top it all, they provide plugins for the most popular blogging and e-commerce platforms, such as:
-- WordPress
-- Shopify
+- [WordPress](https://wordpress.com/alp/?aff=25078)
+- [Shopify](http://www.shopify.com)
 - Bigcommerce
 - Google Tag Manager
 - Magento
