@@ -3,6 +3,7 @@ future: true
 google_analytics: true
 title: My Writing Corner
 author: Fernando Doglio
+description: Blog about blogging. Get tips on how to start blogging, getting traffic and making money through different techniques.
 twitter:
     card: summary_large_image
     username: corner_writing

@@ -1,3 +1,11 @@
+---
+title: My Writing Corner 
+author:
+    twitter: deleteman123
+    name: Fernando Doglio
+description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
+---
+
 <div class="blogpost" markdown="1"> 
 ## 5 steps to starting your own blog for FREE
 ### 06/18/2019
