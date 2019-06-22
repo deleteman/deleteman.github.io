@@ -107,6 +107,7 @@ All providers offer the same set of benefits as above for WordPress hosting (i.e
 
 Again, all of them share a similar price range, and all of them share a similar expected monthly visits for their price ranges. But I had to pick one, I would go with: [NameCheap](https://shareasale.com/r.cfm?b=1380239&u=2099099&m=46483&urllink=&afftrack=)
 They provide the cheapest entry level price for a very decent  expected monthly visits (50k!). If you’re just starting out, this one is particularly great!
+<a target="_blank" href="https://shareasale.com/r.cfm?b=1188772&amp;u=2099099&amp;m=46483&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/46483/promopage_004_728x90.gif" border="0" alt="Big Discounts for Domains, Hosting, SSL and more" /></a>
 
 That being said, the **especial mention** needs to go to  [BlueHost](http://BlueHost.com), because of their USD 200 of free marketing on Google Ads, Bing and other social networks.
 
