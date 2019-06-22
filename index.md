@@ -7,6 +7,20 @@ description: Blog about blogging. Get tips on how to start a blog, how to increa
 ---
 
 <div class="blogpost" markdown="1"> 
+## Web Hosting for Blogs: How to pick the best for your in 2019?
+### 06/22/2019
+<div class="thumb" markdown="1">
+![Web Hosting for blogs](./assets/images/blogposts/web-hosting-for-blogs.jpg)
+</div>
+<p class="description" markdown="1">
+One of the steps of setting up your own blog is finding the best Web Hosting company you can. In this article I'll cover what kind of offering you’ll need from a Web Hosting company and how each piece of it will affect (or benefit) your blogging (and your reader’s) experience.
+</p>
+
+[Read more](./2019/06/22/web-hosting-for-blogs.html) 
+</div>
+
+
+<div class="blogpost" markdown="1"> 
 ## 5 steps to starting your own blog for FREE
 ### 06/18/2019
 <div class="thumb" markdown="1">
