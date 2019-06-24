@@ -63,7 +63,7 @@ Here is the basic information you need to know about them:
 
 | **Provider**                                                                               | **Shared vs VPS?** | **Free Domain Name**                       | **Limited Bandwidth** | **Free SSL**                                     | **Price Range / month (Shared hosting)** | **Price Range / month**<br>**(VPS)**                                  |
 | ------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------ | --------------------- | ------------------------------------------------ | ---------------------------------------- | --------------------------------------------------------------------- |
-| [BlueHost](http://BlueHost.com)                                                            | Both               | Yes                                        | Unlimited             | Yes                                              | USD 7.99 - USD 23.99                     | USD 29.99 - USD 119.99                                                |
+| [BlueHost](https://www.bluehost.com/track/deleteman/)                                                            | Both               | Yes                                        | Unlimited             | Yes                                              | USD 7.99 - USD 23.99                     | USD 29.99 - USD 119.99                                                |
 | [GoDaddy](http://GoDaddy.com)                                                              | Both               | Yes (only if you buy yearly hosting plans) | Unlimited             | Only for a year and not available on basic plans | USD 7.99  - USD 24.99                    | USD 29.99 - USD 139.99                                                |
 | [HostGator](http://HostGator.com)                                                          | Both               | No                                         | Unlimited             | Yes                                              | USD 6.95 - USD 14.95                     | USD 89.95 - USD 159.95                                                |
 | [SiteGround](https://www.siteground.com/index.htm?afcode=cdba41f973306155d408cb18cf0d6848) | Both               | Yes                                        | Unlimited             | Yes                                              | USD 11.95 - USD 34.95                    | USD 80 - USD 240                                                      |
@@ -79,7 +79,10 @@ As you can see, most of them provide the same basic services inside the same rel
 
 **And the winner is…**
 
-But, if we had to pick one, which one would we pick? From the list above, the cheapest and most versatile of them all would be [BlueHost](http://www.bluehost.com).
+But, if we had to pick one, which one would we pick? From the list above, the cheapest and most versatile of them all would be [BlueHost](https://www.bluehost.com/track/deleteman/).
+<a href="https://www.bluehost.com/track/deleteman/" target="_blank">
+<img border="0" src="https://bluehost-cdn.com/media/partner/images/deleteman/728x90/728x90BW.png">
+</a>
 
 
 ## WordPress hosting
@@ -90,7 +93,7 @@ Prices aren’t all equal of course:
 
 | **Provider**                                                                               | **Price Range / month** | **Monthly Visits range** |
 | ------------------------------------------------------------------------------------------ | ----------------------- | ------------------------ |
-| [BlueHost](http://BlueHost.com)                                                            | USD 7.99 - USD 14.99    | 10k - 100k               |
+| [BlueHost](https://www.bluehost.com/track/deleteman/)                                                            | USD 7.99 - USD 14.99    | 10k - 100k               |
 | [GoDaddy](http://GoDaddy.com)                                                              | USD 9.99 - USD 29.99    | 25k - 800k               |
 | [HostGator](http://HostGator.com)                                                          | USD 9.95 - USD 74.95    | 100k - 500k              |
 | [SiteGround](https://www.siteground.com/index.htm?afcode=cdba41f973306155d408cb18cf0d6848) | USD 11.95 - USD 34.95   | 10k - 100k               |
@@ -109,7 +112,7 @@ Again, all of them share a similar price range, and all of them share a similar 
 They provide the cheapest entry level price for a very decent  expected monthly visits (50k!). If you’re just starting out, this one is particularly great!
 <a target="_blank" href="https://shareasale.com/r.cfm?b=1188772&amp;u=2099099&amp;m=46483&amp;urllink=&amp;afftrack="><img src="https://static.shareasale.com/image/46483/promopage_004_728x90.gif" border="0" alt="Big Discounts for Domains, Hosting, SSL and more" /></a>
 
-That being said, the **especial mention** needs to go to  [BlueHost](http://BlueHost.com), because of their USD 200 of free marketing on Google Ads, Bing and other social networks.
+That being said, the **especial mention** needs to go to  [BlueHost](https://www.bluehost.com/track/deleteman/), because of their USD 200 of free marketing on Google Ads, Bing and other social networks.
 
 
 ## Closing thoughts
