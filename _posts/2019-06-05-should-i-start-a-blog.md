@@ -9,6 +9,7 @@ author:
     name: Fernando Doglio
 twitter:
     username: corner_writing
+tags: [blogging, start a blog, begginners]
 ---
 
 ## Should I start a blog?
@@ -70,5 +71,7 @@ Now, if you don't mind, please feel free to leave a comment below and to share t
 See you on the next one!
 
 <div class="sharethis-inline-share-buttons"></div>
+
+{% include related.html %}
                         
 {% include disqus.html %}

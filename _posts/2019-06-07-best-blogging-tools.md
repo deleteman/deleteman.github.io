@@ -6,6 +6,7 @@ author:
     name: Fernando Doglio
 image: assets/images/blogposts/best-tools.png
 description: Find the best blogging tools for 2019 and what you can do with them to improve your blogging-foo into the next level.
+tags: [tools, recommendation, image, seo]
 ---
 
 # It's time to take your game to the next level  with these 12 blogging tools
@@ -194,4 +195,5 @@ What about you? What are _your_ favorite ones and which ones have you tried from
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include related.html %}
 {% include disqus.html %}

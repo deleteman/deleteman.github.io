@@ -6,6 +6,7 @@ author:
     name: Fernando Doglio
 image: assets/images/blogposts/ideas-for-articles.png
 description: If you're running out of ideas for blog posts, try these 5 tips to help you get back on track.
+tags: [recommendation, writing]
 ---
 
 # No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
@@ -67,4 +68,5 @@ See you on the next one!
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include related.html %}
 {% include disqus.html %}

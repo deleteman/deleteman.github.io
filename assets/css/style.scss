@@ -30,6 +30,8 @@ header {
 }
 
 
+
+
 .blogpost {
     padding: 10px;
     margin-top: 10px;
@@ -89,3 +91,20 @@ header {
 }
 
 body {font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;color: #666;font-weight: 300;margin: 0px;padding: 0px 0 20px 0px;background: url(../images/body-background.png) #eae6d1;}
+
+.relatedPosts {
+    padding: 10px;
+}
+.relatedPosts h4 {
+    font-size: 20px;
+}
+
+.related-articles .blogpost {
+    width: 44%;
+    float: left;
+    margin: 5px;
+}
+.related-articles .link-title a{
+    font-weight: bold;
+    color: #666;
+}

@@ -6,6 +6,7 @@ author:
     name: Fernando Doglio
 image: assets/images/blogposts/blog-for-free.jpg
 description: Starting a blog for free is possible, there are limitations though, but you can get your work published without spending a single penny. 
+tags: [recommendation, start a blog, tools, free]
 ---
 # 5 steps to starting your own blog for FREE
 ![Start a blog for free](/assets/images/blogposts/blog-for-free.jpg)
@@ -98,4 +99,5 @@ _See you on the next one!_
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include related.html %}
 {% include disqus.html %}
