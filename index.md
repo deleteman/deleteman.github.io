@@ -7,6 +7,19 @@ description: Blog about blogging. Get tips on how to start a blog, how to increa
 ---
 
 <div class="blogpost" markdown="1"> 
+## Top 6 Blogging platforms on 2019
+### 06/25/2019
+<div class="thumb" markdown="1">
+![Picking the right blogging platform for you](/assets/images/blogposts/top-6-blogging-platforms.jpg)
+</div>
+<p class="description" markdown="1">
+Learn how to choose the best blogging platform based on your particular needs. Are you looking for something free? Is it customization your thing? Do you want to avoid coding? Read to find out.
+</p>
+
+[Read more](./2019/06/25/top-6-blogging-platforms.html) 
+</div>
+
+<div class="blogpost" markdown="1"> 
 ## Web Hosting for Blogs: How to pick the best hosting for your blog in 2019?
 ### 06/22/2019
 <div class="thumb" markdown="1">
