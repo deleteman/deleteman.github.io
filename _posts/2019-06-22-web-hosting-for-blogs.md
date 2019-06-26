@@ -10,7 +10,10 @@ tags: [recommendation, web hosting, tools]
 ---
 
 # Web Hosting for Blogs: How to pick the best hosting for your blog in 2019?
+
+<div class="post-header-img" markdown="1">
 ![Web Hosting for blogs](/assets/images/blogposts/web-hosting-for-blogs.jpg)
+</div>
 
 One of the steps of setting up your own blog is finding the best Web Hosting company you can. Sometimes blog and hosting come as part of the same bundled package, usually limiting your options for picking blogging platform (i.e usually WordPress comes “native” on almost every modern web hosting offering, but what if you’re not planning on using WP?).
 

@@ -9,7 +9,10 @@ description: Starting a blog for free is possible, there are limitations though,
 tags: [recommendation, start a blog, tools, free]
 ---
 # 5 steps to starting your own blog for FREE
+
+<div class="post-header-img" markdown="1">
 ![Start a blog for free](/assets/images/blogposts/blog-for-free.jpg)
+</div>
 
 So, you're thinking about starting a blog, but the idea of you making it as a fulltime blogger is too strange, isn't it? You might want to first dip your toe in the blogging waters and check the temperature, just in case it isn't what you were hoping it would be.
 And because of that, you don't really want to spend all the money the pros are suggesting in order to get started, do you?

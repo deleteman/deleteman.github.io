@@ -10,7 +10,10 @@ tags: [recommendation, writing]
 ---
 
 # No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
+
+<div class="post-header-img" markdown="1">
 ![What should I write about?](/assets/images/blogposts/ideas-for-articles.png)
+</div>
 
 You got your blog, you set everything up, hosting, domain name, you actually took three days to define the perfect theme and now everything looks just right. _What now?_
 You're supposed to be writing content now, but what? That's the main question, and here you'll find some tips & tricks I (and others) use to make the jump from _wanting_ to write about something into _knowing_ what to write about.

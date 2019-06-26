@@ -1,4 +1,7 @@
+
+<div class="post-header-img" markdown="1">
 ![Contact me](/assets/images/contact.jpg)
+</div>
 
 # Get in touch!
 Are you looking to get in touch with me? You can find me on [Twitter](http://twitter.com/deleteman123) or, if you feel like a more personal conversation is needed, write me an [email](mailto:fernando.doglio@gmail.com).

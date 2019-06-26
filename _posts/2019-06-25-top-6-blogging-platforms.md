@@ -10,7 +10,11 @@ tags: [recommendation, blogging platform, tools]
 ---
 
 # Top 6 Blogging platforms on 2019
+
+<div class="post-header-img" markdown="1">
 ![Picking the right blogging platform for you](/assets/images/blogposts/top-6-blogging-platforms.jpg)
+</div>
+
 Starting a blog is not a difficult task, but picking the right platform where to do that might not be as easy. Nowadays every blogging platform is designed with the same objective: to simplify the blogger’s life. 
 As a new blogger, you don’t need to know how to code, you don’t really need to know about how to web works or what a stylesheet is, and that is great! That’s technology evolving, helping you focus on the important thing: your content.
 

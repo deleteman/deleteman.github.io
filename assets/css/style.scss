@@ -34,8 +34,10 @@ header {
 
 .blogpost {
     padding: 10px;
-    margin-top: 10px;
     background-color: #efefef;
+    width: 310px;
+    float: left;
+    margin: 10px;
 }
 
 .blogpost h3 {
@@ -81,7 +83,7 @@ header {
 }
 
 #pages {
-    margin-left: 310px;
+    margin-left: 440px;
     text-align: left;
 }
 
@@ -114,4 +116,29 @@ body {font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, s
     text-align: right;
     float: left;
     margin-right: 10px;
+}
+
+section {
+    width: 90%;
+}
+
+.wrapper {
+    width: 800px;
+}
+
+.sharethis-inline-share-buttons {
+    clear: both;
+}
+
+
+
+nav, footer {
+    left: 45%;
+}
+
+.post-header-img {
+    width: 100%;
+}
+.post-header-img img {
+    width: 100%;
 }

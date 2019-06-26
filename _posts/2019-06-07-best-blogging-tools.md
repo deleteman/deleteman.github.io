@@ -12,7 +12,10 @@ tags: [tools, recommendation, image, seo]
 # It's time to take your game to the next level  with these 12 blogging tools
 ### 06/07/2019
 
+
+<div class="post-header-img" markdown="1">
 ![Best blogging tools 2019](/assets/images/blogposts/best-tools.png)
+</div>
 
 Anybody can write a blog post, heck, anybody can maintain a blog, it's easy, there are way too many options out there that take care of everything. You don't need to know how to code, you don't need to be a tech person, all you need is to read a few lines and click a few buttons.
 But not everyone can run a _successful_ blog, and even fewer people can write _great blog posts_, that's the difference between someone who's just playing around and someone who's taking this medium seriously.

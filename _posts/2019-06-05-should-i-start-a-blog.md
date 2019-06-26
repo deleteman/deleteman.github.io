@@ -15,7 +15,9 @@ tags: [blogging, start a blog, begginners]
 ## Should I start a blog?
 ### 06/04/2019
 
+<div class="post-header-img" markdown="1">
 ![Should I start a blog](/assets/images/blogposts/writing.jpeg)
+</div>
 
 _That question is always nagging the back of our mind, should I start my own blog? Is blogging the right platform to reach my intended audience? 
 Should I instead go to YouTube? Keep reading and I'll try to help you decide._
