@@ -5,6 +5,19 @@ author:
     name: Fernando Doglio
 description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
 ---
+<div class="blogpost" markdown="1"> 
+## 3 July Discounts for WordPress users you don't want to miss - 2019 edition
+### 07/02/2019
+<div class="thumb" markdown="1">
+![3 July Discounts for WordPress users you don't want to miss - 2019 edition](/assets/images/blogposts/wordpress-discounts-july.jpg)
+</div>
+<p class="description" markdown="1">
+Check out the discount codes for WordPress related products during July!. 
+
+</p>
+[Read more](./2019/07/02/wordpress-discounts-july.html) 
+</div>
+
 
 <div class="blogpost" markdown="1"> 
 ## Top 6 Blogging platforms on 2019
