@@ -20,11 +20,16 @@ Here are my top 3 picks for discount codes with a few honorable mentions because
 
 
 ## Hosting with FlyWheel
+<div id="flywheel-logo">
+    <a href="https://share.getf.ly/d11v3j" target="_blank" ><img src="/assets/images/flywheel_logo_vert_blue.png" alt="FlyWheel" /></a>
+</div>
 During the dates of __July 8 at 12:00 am CT__ to __July 15 at 11:59 pm CT__ the promo code **flyjuly** will be granting you the whooping offer of:
 
 _3 months free on the first year of new annual Flywheel subscriptions **AND 25% off add-ons** (White Label, performance insights, and/or plugin updates)_
 
 Note that this offer will only appear on their [pricing page](https://getflywheel.com/pricing/) between the dates mentioned above.
+
+So make sure you [check them out](https://share.getf.ly/d11v3j) if you're looking to host in the next few days!
 
 ## Get your favorite theme for just USD 19 at MyThemeShop
 That's right, the folks at [MyThemeShop](https://mythemeshop.com/) are offering a special 4th of July discount ending on July 7th.
