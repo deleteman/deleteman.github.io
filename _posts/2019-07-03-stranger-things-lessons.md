@@ -1,5 +1,5 @@
 ---
-title: "6 things Stranger Things can teach you about blogging?"
+title: "6 things Stranger Things can teach you about blogging"
 comments: true
 author:
     twitter: deleteman123
@@ -11,9 +11,9 @@ tags: [blogging, lessons, learning]
 
 
 
-# 6 things Stranger Things can teach you about blogging?
+# 6 things Stranger Things can teach you about blogging
 <div class="post-header-img" markdown="1">
-![6 things Stranger Things can teach you about blogging?](/assets/images/blogposts/stranger-lessons.jpg)
+![6 things Stranger Things can teach you about blogging](/assets/images/blogposts/stranger-lessons.jpg)
 </div>
 
 I know right? Yes, maybe I’m trying to jump on the hype wagon that is Stranger Things, but bare with me, because such as many other works of art can teach you things about your own personal journey, so can this great show teach you (and everyone else) a thing or two about blogging.

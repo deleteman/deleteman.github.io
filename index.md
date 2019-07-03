@@ -6,7 +6,7 @@ author:
 description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
 ---
 <div class="blogpost" markdown="1"> 
-## 6 things Stranger Things can teach you about blogging?
+## 6 things Stranger Things can teach you about blogging
 ### 07/03/2019
 <div class="thumb" markdown="1">
 ![6 things Stranger Things teach you about blogging?](/assets/images/blogposts/stranger-lessons.jpg)
