@@ -12,7 +12,7 @@ description: Blog about blogging. Get tips on how to start a blog, how to increa
 ![6 things Stranger Things teach you about blogging?](/assets/images/blogposts/stranger-lessons.jpg)
 </div>
 <p class="description" markdown="1">
-Check out the discount codes for WordPress related products during July!. 
+6 lessons about blogging that Stranger Things can teach you, from being cool with being nerdy to fight off your fears...
 
 </p>
 [Read more](./2019/07/03/stranger-things-lessons.html) 
