@@ -6,6 +6,21 @@ author:
 description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
 ---
 <div class="blogpost" markdown="1"> 
+## 6 things Stranger Things teach you about blogging?
+### 07/03/2019
+<div class="thumb" markdown="1">
+![6 things Stranger Things teach you about blogging?](/assets/images/blogposts/stranger-lessons.jpg)
+</div>
+<p class="description" markdown="1">
+Check out the discount codes for WordPress related products during July!. 
+
+</p>
+[Read more](./2019/07/03/stranger-things-lessons.html) 
+</div>
+
+
+
+<div class="blogpost" markdown="1"> 
 ## 3 July Discounts for WordPress users you don't want to miss - 2019 edition
 ### 07/02/2019
 <div class="thumb" markdown="1">
