@@ -23,7 +23,7 @@ Here are my top 3 picks for discount codes with a few honorable mentions because
 <div id="flywheel-logo">
     <a href="https://share.getf.ly/d11v3j" target="_blank" ><img src="/assets/images/flywheel_logo_vert_blue.png" alt="FlyWheel" /></a>
 </div>
-During the dates of __July 8 at 12:00 am CT__ to __July 15 at 11:59 pm CT__ the promo code **flyjuly** will be granting you the whooping offer of:
+During the dates of __July 8 at 12:00 am CT__ to __July 15 at 11:59 pm CT__ the promo code **flyjuly19** will be granting you the whooping offer of:
 
 _3 months free on the first year of new annual Flywheel subscriptions **AND 25% off add-ons** (White Label, performance insights, and/or plugin updates)_
 
