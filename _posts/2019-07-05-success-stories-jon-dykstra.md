@@ -4,7 +4,7 @@ comments: true
 author:
     twitter: deleteman123
     name: Fernando Doglio
-image: assets/images/blogposts/sucess-stories.jpg
+image: assets/images/blogposts/success-stories.jpg
 pinterestImage: /assets/images/pins/success-stories.png
 
 description: In this series, I'll be asking successful bloggers some key questions to try to understand the mistery behind their success. If you're just starting this might be a great opportunity to learn from the great ones! Today I'm interviewing Jon Dykstra  from Fat Stack Blogs.

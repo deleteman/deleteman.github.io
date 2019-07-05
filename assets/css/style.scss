@@ -33,13 +33,31 @@ header {
 
 
 .blogpost {
-    padding: 10px;
+    padding: 0px;
     background-color: #efefef;
     width: 310px;
     float: left;
-    margin: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 385px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.15);
+    border: 1px dashed #ddd;
 }
 
+.blogpost:hover {
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.30);
+}
+
+.blogpost .thumb-text {
+    padding: 10px;
+}
+
+.blogpost .thumb-text h2{
+    text-align: center;
+    font-weight: normal;
+}
 .blogpost h3 {
     font-size: 12px;
     margin: 0;
@@ -51,15 +69,16 @@ header {
 }
 
 .blogpost a {
-    clear: both;
-    display: block;
     text-transform: uppercase;
     text-align: right;
+    float: right;
+    margin-top: -26px;
 }
 
 .blogpost p.description {
     display: inline-block;
 }
+
 .blogpost .thumb {
     display: inline-block;
     text-align: center;
@@ -125,8 +144,18 @@ body {font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, s
 .related-articles .blogpost {
     width: 44%;
     float: left;
-    margin: 5px;
+    margin: 15px;
 }
+
+.related-articles .blogpost a{
+    margin-top: 0px;
+}
+
+.related-articles .blogpost .description,
+.related-articles .link-title a{
+    padding: 5px;
+}
+
 .related-articles .link-title a{
     font-weight: bold;
     color: #666;
@@ -208,4 +237,8 @@ div#flywheel-logo {
     display: inline-block;
     float: left;
     width: 200px;
+}
+
+.clear {
+    clear: both;
 }
