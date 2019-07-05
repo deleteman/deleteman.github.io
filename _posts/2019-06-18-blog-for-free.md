@@ -7,8 +7,10 @@ author:
 image: assets/images/blogposts/blog-for-free.jpg
 description: Starting a blog for free is possible, there are limitations though, but you can get your work published without spending a single penny. 
 tags: [recommendation, start a blog, tools, free]
+pinterestImage: /assets/images/pins/getting-blog-for-free.png
 ---
 # 5 steps to starting your own blog for FREE
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![Start a blog for free](/assets/images/blogposts/blog-for-free.jpg)
@@ -82,6 +84,7 @@ For example, what would you say if when looking for "best blogging tools" in Goo
 
 ## 5. Indexing your blog so others can find it
 Because it's not just about writing and publishing, if that's all you do, Google (and the other search engines) will only find your articles once readers start linking to them in other places. That's what is known as _backlinking_ and it is great because that'll let the search engines know your site is trusted by others. The problem? That can take a lot of time, sadly not everyone who reads and likes your content will take the time to share it, and even if they did, they might do so to their only 3 Twitter followers. 
+
 So instead, you want to take action, and make sure Search Engines know about you, even before your readers do. The ones I would suggest you aim for first would be:
 - **Google**: Check out their [Search Engine Console](https://search.google.com/search-console/about). You'll need a sitemap for this though. If you're going with Github pages, you can check out [Jekyll's Sitemap plugin](https://github.com/jekyll/jekyll-sitemap) for information on how to install it. If you're on [WordPress](https://wordpress.com/alp/?aff=25078) though, check out [this article](https://www.wpbeginner.com/beginners-guide/what-is-a-wordpress-sitemap-how-to-create-a-sitemap-in-wordpress/) on how to do it.
 - **Bing**: Yes, I said Bing, it might not be Google, but it's still one of the most known search engines out there and defaulted by _some_ browsers, so it won't hurt you to index your site in there (hey, it's free anyway!). In order to do this, you'll need to visit [Bing's Webmaster tools](https://www.bing.com/toolbox/webmaster) and follow a similar set of steps as for Google. Again, you'll need a sitemap for this too, so make sure you followed the steps mentioned above.
@@ -102,5 +105,6 @@ _See you on the next one!_
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include pin-it.html %}
 {% include related.html %}
 {% include disqus.html %}

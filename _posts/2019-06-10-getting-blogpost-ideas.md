@@ -7,9 +7,11 @@ author:
 image: assets/images/blogposts/ideas-for-articles.png
 description: If you're running out of ideas for blog posts, try these 5 tips to help you get back on track.
 tags: [recommendation, writing]
+pinterestImage: /assets/images/pins/blog-post-ideas.png
 ---
 
 # No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![What should I write about?](/assets/images/blogposts/ideas-for-articles.png)
@@ -71,5 +73,6 @@ See you on the next one!
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include pin-it.html %}
 {% include related.html %}
 {% include disqus.html %}

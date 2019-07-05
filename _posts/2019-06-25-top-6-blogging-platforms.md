@@ -7,9 +7,12 @@ author:
 image: assets/images/blogposts/top-6-blogging-platforms.jpg
 description: Learn how to choose the best blogging platform based on your particular needs. Are you looking for something free? Is it customization your thing? Do you want to avoid coding? Read to find out.
 tags: [recommendation, blogging platform, tools]
+
+pinterestImage: /assets/images/pins/top-6-bloggingplatforms-3.png
 ---
 
 # Top 6 Blogging platforms on 2019
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![Picking the right blogging platform for you](/assets/images/blogposts/top-6-blogging-platforms.jpg)
@@ -325,5 +328,6 @@ That is it for this list, I hope I managed to shine some light into the confusio
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include pin-it.html %}
 {% include related.html %}
 {% include disqus.html %}

@@ -7,9 +7,12 @@ author:
 image: assets/images/blogposts/wordpress-discounts-july.jpg
 description: Get these 3 discounts for the month of July while they're still active! Don't miss them! 
 tags: [recommendation, wordpress, discounts]
+
+pinterestImage: /assets/images/pins/wordpress-discounts-july-1.png
 ---
 
 # 3 July Discounts for WordPress Users You Don't Want to Miss - 2019 Edition
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![3 July Discounts for WordPress users you don't want to miss - 2019 edition](/assets/images/blogposts/wordpress-discounts-july.jpg)
@@ -124,5 +127,6 @@ So if you happen to follow these links and purchase something, _thank you in adv
 
 <div class="sharethis-inline-share-buttons"></div>
                         
+{% include pin-it.html %}
 {% include related.html %}
 {% include disqus.html %}

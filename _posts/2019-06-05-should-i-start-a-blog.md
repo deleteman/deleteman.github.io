@@ -10,10 +10,11 @@ author:
 twitter:
     username: corner_writing
 tags: [blogging, start a blog, begginners]
+pinterestImage: /assets/images/pins/starting-a-blog.png
 ---
 
 ## Should I start a blog?
-### 06/04/2019
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![Should I start a blog](/assets/images/blogposts/writing.jpeg)
@@ -70,10 +71,13 @@ Now, a word of advice, take it from someone who works remotely every day and has
 That is it for this post here at _My Writing Corner_, I hope you found it interesting and that with these 10 reasons, you've gained some insight into whether or not you should create your own blog.
 Now, if you don't mind, please feel free to leave a comment below and to share this post in your favorite social media site. Help spread the word and help others make the decision as well!
 
+### Looking to start a blog?
+Also, if you're looking to start a blog, I'd recommend checking out my [FREE 5 Steps Program into Launching your Blog](/5-step-program). It's completely free and **you'll get some insights, recommendations and tips** into which platforms you can use, how to pick our blog topic and finally some tools that'll help you on your day-to-day tasks, I highly recommend you check it out!
+
 See you on the next one!
 
 <div class="sharethis-inline-share-buttons"></div>
 
+{% include pin-it.html %}
 {% include related.html %}
-                        
 {% include disqus.html %}

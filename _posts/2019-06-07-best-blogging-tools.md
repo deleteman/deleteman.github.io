@@ -7,10 +7,11 @@ author:
 image: assets/images/blogposts/best-tools.png
 description: Find the best blogging tools for 2019 and what you can do with them to improve your blogging-foo into the next level.
 tags: [tools, recommendation, image, seo]
+pinterestImage: /assets/images/pins/best-blogging-tools.png
 ---
 
 # It's time to take your game to the next level  with these 12 blogging tools
-### 06/07/2019
+#### {{page.date | date: "%B %e, %Y"}}
 
 
 <div class="post-header-img" markdown="1">
@@ -197,6 +198,7 @@ So that is it for my list of favorite blogging tools. I tried to stick to free t
 What about you? What are _your_ favorite ones and which ones have you tried from this list? Feel free to share and comment below, I'd love to hear back from you!
 
 <div class="sharethis-inline-share-buttons"></div>
-                        
+
+{% include pin-it.html %}
 {% include related.html %}
 {% include disqus.html %}
