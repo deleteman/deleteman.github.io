@@ -12,7 +12,7 @@ tags: [blogging, learning, success stories]
 ---
 
 # Success Stories: a conversation with Jon Dykstra
-### 07/05/2019
+#### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
 ![Success Stories: a conversation with Jon Dykstra](/assets/images/blogposts/success-stories.jpg)
@@ -21,14 +21,15 @@ tags: [blogging, learning, success stories]
 
 
 <div class="about-with-picture" markdown="1">
-![Fat Stack Blog](/assets/images/fatstack-log.jpg)
+![Jon Dykstra - Fat Stack Blog](/assets/images/jon-dykstra.jpg)
 </div>
 Welcome to the first installment of "Success Stories", a series I created to try to understand the reasons behind the success of those bloggers who've managed to create amazingly successful blogs and at the same time, manged to turn them into valuable passive income sources.
 
-Today, I'm interviewing **Jon Dykstra**, from [Fat Stacks Entrepeneur](https://fatstacksblog.com/). 
+Today, I'm interviewing **Jon Dykstra**, from [Fat Stacks Blog](https://fatstacksblog.com/). 
 
 The way this works is I send them a Google Form with the question, and they take their time to answer them as detailed as they can. In this, our first instance, Jon decided to cut the cr*p and go straight to the point, so even though his answers have just a few words, they're loaded with meaning.
 
+<p class="clear"/>
 Let me show you...
 
 ## How long have you been blogging for?	
