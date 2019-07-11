@@ -78,6 +78,9 @@ However, if:
 
 **Then Medium is not what you’re looking for and should keep reading.**
 
+_**Update from July 11, 2019**_
+I've done a quick [review of Midnight](http://www.mywritingcorner.net/2019/07/11/midnight-medium-alternative.html), a Medium-like platform that provides a lot more control over your content with the same beautiful writing experience. **Check it out if you're already a Medium user looking for a change.**
+
 ## Build your own blog platforms
 ![Build your own blog platform](/assets/images/blogposts/blog-platforms2.png)
 
