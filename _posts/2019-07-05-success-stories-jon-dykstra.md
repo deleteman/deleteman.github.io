@@ -71,7 +71,7 @@ With that being said, the main takeaways from this answers are (according to me 
 
 What are _your_ takewayas from Jon's answers? Share them in the comments, I'd love to know what you got from his answers.
 And stay tunned for the next installment of _"Success Stories"_, where I interview Victoria Sully from [lyliarose.com 
-](www.lyliarose.com).
+](http://www.lyliarose.com).
 
 _See you on the next one!_
 

@@ -21,11 +21,11 @@ You got your blog, you set everything up, hosting, domain name, you actually too
 You're supposed to be writing content now, but what? That's the main question, and here you'll find some tips & tricks I (and others) use to make the jump from _wanting_ to write about something into _knowing_ what to write about.
 
 ## 1. Enlist your search engine's help 
-Say you've decided to write about fitness, now that you have your blog ready, go to [Google.com](www.google.com) and type _fitness_ and then, hit the space key. Don't hit enter yet, just wait and read the suggestions. Google is actually telling you right there and now what others are searching for in your particular niche. Cool isn't it?
+Say you've decided to write about fitness, now that you have your blog ready, go to [Google.com](http://www.google.com) and type _fitness_ and then, hit the space key. Don't hit enter yet, just wait and read the suggestions. Google is actually telling you right there and now what others are searching for in your particular niche. Cool isn't it?
 You can keep doing this with different word combinations and figure out the type of topics that people care about. You can even take it one step further, and go into [Google's keyword planner](https://ads.google.com/) and sign up for it. Once inside, ignore all warnings and messages, just click on the planner link and enter the set of keywords you came up with in the previous step, after that Google will give you more insight into how popular (on unpopular) they are.
 Using these two tools, you can come up with many ideas for your particular niche.
 
-The best part about this is that Google isn't the only search engine that can help you in a similar manner. [Pinterest](www.pinterest.com), a great source of traffic for bloggers, provides a similar search prediction algorithm, so if you log-in, and start searching word by word, reading what those suggestions are telling you, you can also create a very healthy set of topics for your next few blog posts.
+The best part about this is that Google isn't the only search engine that can help you in a similar manner. [Pinterest](http://www.pinterest.com), a great source of traffic for bloggers, provides a similar search prediction algorithm, so if you log-in, and start searching word by word, reading what those suggestions are telling you, you can also create a very healthy set of topics for your next few blog posts.
 
 Give it a try!
 
@@ -41,7 +41,7 @@ Finally hit the pros: "The science behind muscle growth", "Bulking vs Weight los
 
 You get the point, just follow their path as if it was your own. Just remember to not get too in-depth with these articles, you don't have to cover _everything_ about one tier before moving on to the next one. In fact, I would recommend doing this in a cyclical manner, meaning writing two or three blog posts for one tier, then moving on to the next one and once you cover the highest tier, go back to the beginning and start covering other topics you haven't yet.
 
-This technique can be applied to any niche really, you just need to sit down and plan the path for a bit, in fact, I would suggest using some form of planning tool, such as [Trello](www.trello.com), so the great ideas you come up with but don't have time to implement yet, aren't lost.
+This technique can be applied to any niche really, you just need to sit down and plan the path for a bit, in fact, I would suggest using some form of planning tool, such as [Trello](http://www.trello.com), so the great ideas you come up with but don't have time to implement yet, aren't lost.
 
 ## 3. Create a how-to guide
 People usually jump online for one of two things: entertainment or problem-solving. So a good way to pick a topic to write about is to go at it as a "How-to guide". "How to create a blog", "How to stay fit when traveling", "How to make it to the end of the month with a minimum wage", you get the picture.
