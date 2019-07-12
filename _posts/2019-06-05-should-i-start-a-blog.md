@@ -14,7 +14,7 @@ tags: [blogging, start a blog, begginners]
 pinterestImage: /assets/images/pins/starting-a-blog.png
 ---
 
-## Should I start a blog?
+# Should I start a blog?
 #### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">

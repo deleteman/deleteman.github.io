@@ -1,3 +1,7 @@
+---
+title: My Writing Corner | About me
+---
+
 # About My Writing Corner
 
 <div class="about-with-picture" markdown="1">
