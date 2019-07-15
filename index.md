@@ -4,7 +4,9 @@ author:
     twitter: deleteman123
     name: Fernando Doglio
 description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
+image: assets/images/logo.png
 ---
+
 {% for post in site.posts %}	
 {% assign reminder = forloop.index  | modulo: 2 %}
 
