@@ -1,5 +1,5 @@
 ---
-title: "No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts"
+title: "5 Guaranteed Ways For Getting New Blog Post Ideas"
 comments: true
 author:
     twitter: deleteman123
@@ -10,7 +10,8 @@ tags: [recommendation, writing]
 pinterestImage: /assets/images/pins/blog-post-ideas.png
 ---
 
-# No idea what to write about? Try these 5 tips guaranteed to help you generate ideas for your blog posts
+# 5 Guaranteed Ways For Getting New Blog Post Ideas
+## No idea what to write about? Try these 5 tips and let me know...
 #### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">

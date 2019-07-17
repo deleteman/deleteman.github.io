@@ -1,5 +1,5 @@
 ---
-title: "Web Hosting for Blogs: How to pick the best hosting for your blog in 2019?"
+title: "Pick the Best Web Hosting for your Blogs"
 comments: true
 author:
     twitter: deleteman123
@@ -10,7 +10,8 @@ tags: [recommendation, web hosting, tools]
 pinterestImage: /assets/images/pins/best-webhosting.png
 ---
 
-# Web Hosting for Blogs: How to pick the best hosting for your blog in 2019?
+# Pick the Best Web Hosting for your Blogs
+## How to pick the best hosting for your blog in 2019?
 #### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">

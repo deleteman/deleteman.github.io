@@ -1,5 +1,5 @@
 ---
-title: "It's time to take your game to the next level  with these 12 blogging tools"
+title: "Best blogging tools for 2019"
 comments: true
 author:
     twitter: deleteman123
@@ -10,7 +10,8 @@ tags: [tools, recommendation, image, seo]
 pinterestImage: /assets/images/pins/best-blogging-tools.png
 ---
 
-# It's time to take your game to the next level  with these 12 blogging tools
+# Best blogging tools for 2019
+## It's time to take your game to the next level  with these 12 blogging tools
 #### {{page.date | date: "%B %e, %Y"}}
 
 
