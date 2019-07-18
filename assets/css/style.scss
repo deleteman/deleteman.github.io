@@ -35,7 +35,7 @@ header {
 .blogpost {
     padding: 0px;
     background-color: #efefef;
-    width: 310px;
+    width: 44%;
     float: left;
     margin: 20px;
     display: flex;
@@ -103,9 +103,11 @@ header {
 
 
 #pages {
-    width: 800px;
+    width: 44%;
     margin: 0px auto;
 }
+
+
 
 /*
 #pages ul {
@@ -195,7 +197,7 @@ nav {
 }
 
 footer {
-    width: 782px;
+    width: 100%;
     bottom: 20px;
     position: relative;
     margin: 0;
@@ -299,6 +301,14 @@ div#flywheel-logo {
     display: block;
     text-align: left;
   }
+
+  .blogpost {
+    width: auto
+  }
+
+  #pages {
+      width: 100%;
+  }
 }
 
 @media print, screen and (max-width: 1060px) {
@@ -306,8 +316,9 @@ section {
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px auto;
-    margin: 190px auto 20px;
+    margin: 0px auto 20px;
     max-width: 100%;
+    width: auto;
 }
 }
 
