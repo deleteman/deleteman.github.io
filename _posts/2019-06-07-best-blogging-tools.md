@@ -8,6 +8,8 @@ image: assets/images/blogposts/best-tools.png
 description: Find the best blogging tools for 2019 and what you can do with them to improve your blogging-foo into the next level.
 tags: [tools, recommendation, image, seo]
 pinterestImage: /assets/images/pins/best-blogging-tools.png
+redirect_from:
+    - /2019/06/07/best-blogging-tools.html
 ---
 
 # Best blogging tools for 2019

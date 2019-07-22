@@ -8,6 +8,8 @@ image: assets/images/blogposts/wpforms.jpg
 pinterestImage: /assets/images/pins/wpforms-3.png
 description: If you’ve been playing around and trying the waters with WordPress, you’ve probably had to deal with creating forms. You either had to add a contact form somewhere. sign-up forms, or even a log-in on at least one of the sites you’ve managed.
 tags: [blogging, wordpress, wordpress plugins]
+redirect_from: 
+    - /2019/07/15/wpforms-a-typeform-alternative-wordpress.html
 ---
 
 
@@ -64,7 +66,7 @@ Both plugins great and somewhat similar when it comes to creating forms. I do li
 
 
 
-![](https://cdn.wpforms.com/wp-content/uploads/2019/02/conversational-forms-featured.gif)
+![Conversational forms](https://cdn.wpforms.com/wp-content/uploads/2019/02/conversational-forms-featured.gif)
 
 
 [https://cdn.wpforms.com/wp-content/uploads/2019/02/conversational-forms-featured.gif](https://cdn.wpforms.com/wp-content/uploads/2019/02/conversational-forms-featured.gif)
@@ -94,13 +96,15 @@ But the winning factor here for me is their blog. As I said, their support teams
 WPForms’ blog is filled with how-to guides, examples of what to do and tutorials on using their plugin. This is what a truly helpful blog looks like:
 
 
-![](https://paper-attachments.dropbox.com/s_FE634AD75309C3229586AB93F6B205A3C8509F29FD653C004B01BA69C5B7CF37_1563206952367_wp-blog.png)
+<p class="centered"  markdown="1">
+![WPForms blog](/assets/images/blogposts/wpforms-blog.jpg)
+</p>
 
 
 While, on the other hand, Typeform’s blog is filled with guides, but not technical how-to guides, instead they’re more business-oriented. They’re a great help, don’t get me wrong, but not at all helpful for that time when everything is going wrong and you need help.
 
 
-![](https://paper-attachments.dropbox.com/s_FE634AD75309C3229586AB93F6B205A3C8509F29FD653C004B01BA69C5B7CF37_1563207179771_typeform-blog.png)
+![Typeform blog](/assets/images/blogposts/typeform.jpg)
 
 
 So, the final winner here is, again: **WPForms**

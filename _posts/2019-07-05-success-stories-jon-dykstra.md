@@ -9,6 +9,8 @@ pinterestImage: /assets/images/pins/success-stories.png
 
 description: In this series, I'll be asking successful bloggers some key questions to try to understand the mistery behind their success. If you're just starting this might be a great opportunity to learn from the great ones! Today I'm interviewing Jon Dykstra  from Fat Stack Blogs.
 tags: [blogging, learning, success stories]
+redirect_from:
+    - /2019/07/05/success-stories-jon-dykstra.html
 ---
 
 # Success Stories: a conversation with Jon Dykstra

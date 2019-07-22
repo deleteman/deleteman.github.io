@@ -8,6 +8,8 @@ image: assets/images/blogposts/stranger-lessons.jpg
 description: 6 lessons about blogging that Stranger Things can teach you, from being cool with being nerdy to fight off your fears, check them out here. 
 tags: [blogging, lessons, learning]
 pinterestImage: /assets/images/pins/stranger-2.png
+redirect_from:
+    - /2019/07/03/stranger-things-lessons.html
 ---
 
 

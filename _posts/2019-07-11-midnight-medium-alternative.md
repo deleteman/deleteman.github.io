@@ -9,6 +9,8 @@ pinterestImage: /assets/images/pins/midnight-3.png
 
 description: A new alternative to Medium is available and promising a lot more control over your blog.
 tags: [blogging, blogging platforms, midnight]
+redirect_from:
+    - /2019/07/11/midnight-medium-alternative.html
 ---
 
 # Midnight: A Medium alternative you want to consider

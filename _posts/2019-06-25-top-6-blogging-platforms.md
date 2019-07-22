@@ -7,7 +7,8 @@ author:
 image: assets/images/blogposts/top-6-blogging-platforms.jpg
 description: Learn how to choose the best blogging platform based on your particular needs. Are you looking for something free? Is it customization your thing? Do you want to avoid coding? Read to find out.
 tags: [recommendation, blogging platform, tools]
-
+redirect_from:
+    - /2019/06/25/top-6-blogging-platforms.html
 pinterestImage: /assets/images/pins/top-6-bloggingplatforms-3.png
 ---
 

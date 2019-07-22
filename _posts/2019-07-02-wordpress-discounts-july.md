@@ -7,7 +7,8 @@ author:
 image: assets/images/blogposts/wordpress-discounts-july.jpg
 description: Get these 3 discounts for the month of July while they're still active! Don't miss them! 
 tags: [recommendation, wordpress, discounts]
-
+redirect_from:
+    - /2019/07/02/wordpress-discounts-july.html
 pinterestImage: /assets/images/pins/wordpress-discounts-july-1.png
 ---
 

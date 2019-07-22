@@ -9,6 +9,8 @@ pinterestImage: /assets/images/pins/success-stories-2.png
 
 description: In this series, I'll be asking successful bloggers some key questions to try to understand the mistery behind their success. If you're just starting this might be a great opportunity to learn from the great ones! Today I'm interviewing Victoria Sully from lyliarose.com.
 tags: [blogging, learning, success stories]
+redirect_from:
+    - /2019/07/18/success-stories-victoria-sully.html
 ---
 
 # Success Stories: a conversation with Victoria Sully
@@ -17,7 +19,6 @@ tags: [blogging, learning, success stories]
 <div class="post-header-img" markdown="1">
 ![Success Stories: a conversation with Victoria Sully](/assets/images/blogposts/success-stories-2.jpg)
 </div>
-
 
 
 <div class="about-with-picture" markdown="1">

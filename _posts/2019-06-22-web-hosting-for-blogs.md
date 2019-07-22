@@ -8,6 +8,8 @@ image: assets/images/blogposts/web-hosting-for-blogs.jpg
 description: One of the steps of setting up your own blog is finding the best Web Hosting company you can. In this article I'll cover what kind of offering you’ll need from a Web Hosting company and how each piece of it will affect (or benefit) your blogging (and your reader’s) experience.
 tags: [recommendation, web hosting, tools]
 pinterestImage: /assets/images/pins/best-webhosting.png
+redirect_from:
+    - /2019/06/22/web-hosting-for-blogs.html
 ---
 
 # Pick the Best Web Hosting for your Blogs
