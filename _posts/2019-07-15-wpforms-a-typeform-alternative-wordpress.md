@@ -121,6 +121,10 @@ Do note that some of the above links are affiliate links, which means if you cli
 So if you happen to follow these links and purchase something, _thank you in advance!_
 </div>
 
+<div class="disclosure" markdown="1">
+If you're looking into singing up for WPForms, think about [singing up](https://mailchi.mp/5f2272ea82c9/wpforms-giveaway) and winning a **full year for FREE**
+</div>
+
 
 <div class="sharethis-inline-share-buttons"></div>
 

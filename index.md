@@ -6,6 +6,9 @@ author:
 description: Blog about blogging. Get tips on how to start a blog, how to increase your traffic and how to turn your hobbie into an income producing endevour. 
 image: assets/images/logo.png
 ---
+<div class="home-banner" markdown="1">
+[![WPForms Giveaway](/assets/images/wpforms-giveaway.jpg)](/wpforms-giveaway)
+</div>
 
 {% for post in site.posts %}	
 {% assign reminder = forloop.index  | modulo: 2 %}
