@@ -16,17 +16,17 @@ redirect_from:
 # WPForms: A Beautiful Typeform Alternative for WordPress
 #### {{page.date | date: "%B %e, %Y"}}
 
+
 <div class="post-header-img" markdown="1">
 ![WPForms: A Beautiful Typeform Alternative for WordPress](/assets/images/blogposts/wpforms.jpg)
 </div>
-
 If you’ve been playing around and trying the waters with WordPress, you’ve probably had to deal with creating forms. You either had to add a contact form somewhere. sign-up forms, or even a log-in on at least one of the sites you’ve managed.
 And at the same time, if you’ve been around for a while, you know you’re probably better off if you’re using a plugin for this. And I know, there are way too many form plugins out there to just pick one, but you can usually group them into: free and feature-limited, or paid and wonderful (unless of course, you don’t have the money to pay for them).
 
 One particular, incredibly nice looking plugin that comes to mind when thinking about building forms is Typeform, of course, you can customize *everything* font face, colors, sizes, background, add images, and so on. And although they do have a FREE plan, if you actually want to gain all the benefits this plugin promises, you need to pay. And they’re not cheap, their basic plan is USD 35 a month, or USD 30 a month if you sign-up for a yearly plan (which of course means a single payment of USD 350  a year).
 
 Don’t get me wrong, I’m not saying they’re not worth it, and if you have the money, then it’s probably not a big investment, but consider being a newcomer to blogging.  
-You’re just starting out and trying to look professional, but unwilling to put down a lot of money up front (which is completely understandable) for that. If that’s you, 35 dollars a month, for a project that is giving you nothing back might be too much, so I’m here to tell you about a cheaper, and equally powerful plugin: [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775).
+You’re just starting out and trying to look professional, but unwilling to put down a lot of money up front (which is completely understandable) for that. If that’s you, 35 dollars a month, for a project that is giving you nothing back might be too much, so I’m here to tell you about a cheaper, and equally powerful plugin (a Typeform alternative if you will): [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775).
 
 
 ## Pay less and get great forms
@@ -35,7 +35,7 @@ You’re just starting out and trying to look professional, but unwilling to put
 </div>
 
 
-If you’re looking for the best plugin for your site, something that is feature reach and allows you to create basic forms to capture data from your users, WPForms’ basic plan is perfect for you. It’s their cheapest option, and with only USD 79 ***a year*** , you’re getting:
+If you’re looking for the best plugin for your site, something that is feature reach and allows you to create basic forms to capture data from your users, [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775)’ basic plan is perfect for you. It’s their cheapest option, and with only USD 79 ***a year*** , you’re getting:
 
 
 - Unlimited number of forms
@@ -52,9 +52,9 @@ If you’re looking for the best plugin for your site, something that is feature
 - Custom captchas, to keep those f’ing robots away from your forms
 - And some other minor details.
 
-That's what you get from their basic pack, paying around USD 7 a month, that’s all. Yes, it’s true, if you compare one-to-one Typeform’s basic plan and WPForms, the first one has more features, of course, at a considerably higher cost.
+That's what you get from their basic pack, paying around USD 7 a month, that’s all. Yes, it’s true, if you compare one-to-one Typeform’s basic plan and [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775), the first one has more features, of course, at a considerably higher cost.
 
-The other hand of this comparison is also something you want to consider: if you’re in fact, willing to spend some money, the Elite level for WPForm sits at USD 600 a year, while for Typeform, their “Pro+” tier is 100 dollars more expensive (seating at USD 700). 
+The other hand of this comparison is also something you want to consider: if you’re in fact, willing to spend some money, the Elite level for [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775) sits at USD 600 a year, while for Typeform, their “Pro+” tier is 100 dollars more expensive (seating at USD 700). 
 
 
 ## What about their UX?
@@ -62,7 +62,7 @@ The other hand of this comparison is also something you want to consider: if you
 Working with these plugins, once you get over the paywall, you need something that gives you exactly what you want for the money that you're paying. 
 
 ### Adding forms to your site
-Both plugins great and somewhat similar when it comes to creating forms. I do like however, the flexibility WPForms provides with the ability to either have traditional forms or turn them into [conversational forms](https://wpforms.com/addons/conversational-forms-addon/) whenever you feel like it versus Typeform’s only focus on conversational focus. 
+Both plugins great and somewhat similar when it comes to creating forms. I do like however, the flexibility [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775) provides with the ability to either have traditional forms or turn them into [conversational forms](https://wpforms.com/addons/conversational-forms-addon/) whenever you feel like it versus Typeform’s only focus on conversational focus. 
 
 
 
@@ -109,10 +109,13 @@ While, on the other hand, Typeform’s blog is filled with guides, but not techn
 
 So, the final winner here is, again: **WPForms**
 
+<div class="home-banner" markdown="1">
+[![WPForms Giveaway](/assets/images/wpforms-giveaway.jpg)](/wpforms-giveaway)
+</div>
 
 ## Conclusion
 
-You’ve probably guessed it by now, but if you’ve found Typeforms prices to be too high for your pocket, or if you’re looking to save some money while starting out a new business, [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775) is the perfect match for you. 
+You’ve probably guessed it by now, but if you’ve found Typeforms prices to be too high for your pocket, or if you’re looking to save some money while starting out a new business, the best Typeforms alternative out there is [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775), _the_ perfect match for you. 
 Test it out, try their FREE tier and then upgrade once you’re ready, because trust me, *you will*.
 
 _See you on the next one!_
@@ -126,7 +129,7 @@ So if you happen to follow these links and purchase something, _thank you in adv
 </div>
 
 <div class="disclosure" markdown="1">
-If you're looking into singing up for WPForms, think about [singing up](https://mailchi.mp/5f2272ea82c9/wpforms-giveaway) and winning a **full year for FREE**
+If you're looking into singing up for [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775), think about [singing up](https://mailchi.mp/5f2272ea82c9/wpforms-giveaway) and winning a **full year for FREE**
 </div>
 
 
