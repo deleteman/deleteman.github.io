@@ -211,6 +211,13 @@ footer p {
     padding: 15px;
 }
 
+
+.social-links,
+.social-links ul {
+    margin:0px;
+    padding:0px;
+}
+
 .social-links li {
     list-style: none;
     float: left;
@@ -337,4 +344,10 @@ p.page-title {
 
 .centered {
     text-align: center;
+}
+
+li.policies-links {
+    clear: both;
+    margin:0;
+    padding: 0px;
 }

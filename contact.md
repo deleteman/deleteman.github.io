@@ -1,4 +1,6 @@
-
+---
+title: "My Writing Corner | Contact information"
+---
 <div class="post-header-img" markdown="1">
 ![Contact me](/assets/images/contact.jpg)
 </div>
