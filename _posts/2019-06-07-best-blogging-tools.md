@@ -88,7 +88,7 @@ They do offer a paid plan, which gives you access to even more graphics and asse
 
 #### BrandCrowd
 ![Brandcrowd](/assets/images/blogposts/brandcrowd-ss.png)
-[BrandCrowd](http://www.brandcrowd.com) allows you to auto-generate your own logo. Yeah, you read it right, where Canva allowed you to look like a great Graphics Designer for your header images, BrandCrowd will auto-generate a logo for you (actually, it'll generate dozens for you to pick up), and then it'll let you customize it. 
+[BrandCrowd](https://shareasale.com/r.cfm?b=1273424&u=2099099&m=84069&urllink=&afftrack=) allows you to auto-generate your own logo. Yeah, you read it right, where Canva allowed you to look like a great Graphics Designer for your header images, BrandCrowd will auto-generate a logo for you (actually, it'll generate dozens for you to pick up), and then it'll let you customize it. 
 It's not free though, you're perfectly capable of picking the logo and customizing it without even having to log-in, but if you do choose to download it, you'll have to pay. Mind you, considering it's the face of your blog, USD 45 is not that bad, especially because you're not just getting an image, you're getting:
 
 - Your logo without a watermark (you can download it for free, but it comes watermarked)
