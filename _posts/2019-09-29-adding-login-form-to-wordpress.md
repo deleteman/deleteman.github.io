@@ -1,5 +1,5 @@
 ---
-title: "Adding a custom login to your WordPress site in 2 easy steps"
+title: "Adding a custom WordPress login to your site in 2 easy steps"
 comments: true
 author:
     twitter: deleteman123
@@ -12,11 +12,11 @@ tags: [wordpress, tutorial, plugin]
 redirect_from:
     - /2019/07/29/adding-login-form-to-wordpress.html
 ---
-# Adding a custom login to your WordPress site in 2 easy steps
+# Adding a custom WordPress login to your site in 2 easy steps
 #### {{page.date | date: "%B %e, %Y"}}
 
 <div class="post-header-img" markdown="1">
-![Adding a custom login to your WordPress site in 2 easy steps](/assets/images/blogposts/custom-wordpress-login.jpg)
+![Adding a custom WordPress login to your site in 2 easy steps](/assets/images/blogposts/custom-wordpress-login.jpg)
 </div>
 
 
@@ -34,7 +34,7 @@ _Do you really want your login page to look like this?_
 Before we being, let me mention that if you’re on a [WordPress.com](http://www.WordPress.com) account, you’ll have to have a paying plan, it doesn’t have to be an expensive one mind you, you can simply do this with a $3 blogger plan, but in order to install plugins, you’ll have to pay *something* .
 If on the other hand, you’re self-hosted, then all you have to do, is install the plugins I’ll mention here without the need to pay more for them.
 
-Let’s now dive heads first, into adding a custom login page:
+Let’s now dive heads first, into adding a custom WordPress login page:
 
 **1- Install Theme My Login**
 There are *a lot* of plugins out there that’ll let you do this. In fact, if you’re already using [WPForms](https://www.shareasale.com/r.cfm?u=2099099&m=64312&b=834775) and paying for their Pro license, you might as well use them.
@@ -64,7 +64,7 @@ The login page is where you can customize all you want, after all, it’s a norm
 
 Here is mine:
 
-![Custom Login page](/assets/images/blogposts/my-login.png)
+![Custom WordPress Login page](/assets/images/blogposts/my-login.png)
 
 
 I know, simple, yet I could literally customize it however I want, all the tools of the editor are there for you to pick. But the key part is the bottom of the content section, notice the brackets?
@@ -150,7 +150,7 @@ There are several options, but if we’re going for a role-based approach, you c
 
 ## And that is it!
 
-Yeah, that was easy! In fact, setting up the login form is a crazy fast 2-step deal, but what others don’t really follow up on is what comes next. So hopefully in this quick article you’ve were able to learn everything you needed to provide your valued customers with a exclusive experience, and best of all, without having to spend a single dime!
+Yeah, that was easy! In fact, setting up the custom WordPress login form is a crazy fast 2-step deal, but what others don’t really follow up on is what comes next. So hopefully in this quick article you’ve were able to learn everything you needed to provide your valued customers with a exclusive experience, and best of all, without having to spend a single dime!
 
 Leave a comment below if you found this useful, I’d love to know if you were able to use it as well! And if you have other plugin recommendations out there, feel free to drop them down below as well!
 
