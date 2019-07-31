@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 # Best blogging tools for 2019
-## It's time to take your game to the next level  with these 12 blogging tools
+## It's time to take your game to the next level  with these 13 blogging tools
 #### {{page.date | date: "%B %e, %Y"}}
 
 
@@ -37,14 +37,14 @@ So here we go...
 <a name="general" />
 
 ### General tools
-Lead generation, social sharing and even task management are activities any self-respecting blogger should be doing when not working on the blog. And these are tools to help with that.
+Lead generation, social sharing and even task management are activities any self-respecting blogger should be doing when not working on the blog. And these are some of the best tools to help with that.
 
 #### Sumo
 ![Sumo.com](/assets/images/blogposts/sumo-ss.png)
 
 When it comes to turning your visits into possible leads (basically, someone who might eventually turn into profit for you in one way or the other), [Sumo.com](http://www.sumo.com) is a great place to start.
 They provide several tools, such as form creation, allowing you to customize the way you capture email addresses. You can keep user lists and email them with news and offers. Another very useful feature they provide is the ability to add share buttons for every single social network out there. If you're looking for a way to add them, Sumo can help you do it quickly.
-And last but not least, they also provide very stylized Smart Call to Action bars, allowing you to get your users' attention into specific offers you might have.
+And last but not least, they also provide very stylized smart Call to Action bars, allowing you to get your users' attention into specific offers you might have.
 Finally, and to top it all, they provide plugins for the most popular blogging and e-commerce platforms, such as:
 - [WordPress](https://wordpress.com/alp/?aff=25078)
 - [Shopify](http://www.shopify.com)
@@ -63,6 +63,7 @@ You do have a **free** plan with MailChimp, although a bit limited, it's great t
 
 #### Trello
 ![Trello](/assets/images/blogposts/trello-ss.png)
+I can't make a list of the best blogging tools without adding [Trello](http://www.trello.com) in one way or another, this is probably one of my favorite tools out there and I'll tell you why in a second. 
 If you're taking your blogging activity seriously, you'll probably start generating a backlog of article ideas pretty soon. On top of that, you'll start getting new ideas for your marketing strategies, guest posts requests and many other very possible tasks that will populate your day-to-day. You can try to keep all of that in your head, sure, but pretty soon you'll start forgetting about some of them. I know I was until I decided to start dumping everything related to my blogs into a [Trello](http://www.trello.com) board. 
 I literally started with a board called "Shit to do", where I would write everything I could think of, wherever I was (they have a very nice mobile app you can install). I started that board with a single list: To-Do, that list eventually turned into different ones, when my ideas started to grow into projects. Then other projects and eventually status lists, such as To-Do, Doing, Rejected and my personal favorite: Done.
 
@@ -70,8 +71,8 @@ Trello combines the power of an agile scrum board, with a very simple and slim U
 
 <a name="image">
 ### Image related tools
-People usually start blogs because they're confident in their writing skills (however mislead that confidence might be), but they tend to forget that in order to promote the work they do, they also need a bit of an eye for design. 
-Lucky for us, there are several tools that have been designed to help in this area, either by providing quality content or by making the job so easy that anyone can look like a great graphic designer. Let me show you:
+People usually start blogs because they're confident in their writing skills or maybe they know they have a message to share, but they tend to forget that in order to promote the work they do, they also need a bit of an eye for design. 
+Lucky for us, there are several tools for bloggers that have been designed to help in this area, either by providing quality content or by making the job so easy that anyone can look like a great graphic designer. Let me show you:
 
 #### Canva
 ![Canva.com](/assets/images/blogposts/canva-ss.png)
@@ -89,6 +90,8 @@ They do offer a paid plan, which gives you access to even more graphics and asse
 #### BrandCrowd
 ![Brandcrowd](/assets/images/blogposts/brandcrowd-ss.png)
 [BrandCrowd](https://shareasale.com/r.cfm?b=1273424&u=2099099&m=84069&urllink=&afftrack=) allows you to auto-generate your own logo. Yeah, you read it right, where Canva allowed you to look like a great Graphics Designer for your header images, BrandCrowd will auto-generate a logo for you (actually, it'll generate dozens for you to pick up), and then it'll let you customize it. 
+If you're making a list of great blogging tools, this one needs to be in there, no doubt about it. Graphic designs and taste aren't things you can usually pickup quickly, and if you're just starting from scratch, [BrandCrowd](https://shareasale.com/r.cfm?b=1273424&u=2099099&m=84069&urllink=&afftrack=) is definitely a great way to jump-start this process.
+
 It's not free though, you're perfectly capable of picking the logo and customizing it without even having to log-in, but if you do choose to download it, you'll have to pay. Mind you, considering it's the face of your blog, USD 45 is not that bad, especially because you're not just getting an image, you're getting:
 
 - Your logo without a watermark (you can download it for free, but it comes watermarked)
@@ -123,7 +126,9 @@ If you're using photos on your site, __you need to pay for them__ or, thanks to 
 <a name="writing" />
 
 ### Writing help tools
-Because no matter how great of a writer you think you are, it never hurts to get someone to review your work. These tools will do that for you, they'll look at your grammar, your syntax, and your structure and will provide feedback. 
+Because no matter how great of a writer you think you are, it never hurts to get someone to review your work. These great tools will do that for you, they'll look at your grammar, your syntax, and your structure and will provide feedback. 
+These aren't specific for bloggers, any writer has use for them, but there can't be a best blogging tools list without touching on this category.
+
 So here they are:
 
 
@@ -171,7 +176,7 @@ It'll basically rate your readability, and if you ask me (and most of the profes
 ![Headline analyzer](/assets/images/blogposts/headline-ss.png)
 Finally, the last writing help tool I want to talk about is [Sharethrough's Headline Analyzer](https://headlines.sharethrough.com). This little page will gladly review your article's headline and guide to towards improving it as much as possible. It takes into account the length, the type of words you use on it and it even makes suggestions where you can improve upon. 
 
-For example, my original title for this post was going to be: _Best Blogging tools for 2019_ but after iterating a few times and following the suggestions provided, I landed on: _It's time to take your blogging game to the next level  with these 12 tools_ which I think is a more engaging title, don't you?
+For example, my original title for this post was going to be: _Best Blogging tools for 2019_ but after iterating a few times and following the suggestions provided, I landed on the subtitle: _It's time to take your blogging game to the next level  with these 13 tools_ which I think is a more engaging title, don't you?
 
 This product is completely **free** and you can start using it without the need to signup, which is another major benefit, just go and get feedback.
 
@@ -194,10 +199,17 @@ Here are some tools that can help you in that regard.
 
 External websites don't need to notify you when they change their URLs, in fact, they're not even forced to add redirections to the new URLs. So the only way for you to make sure you're not linking to the big 404 out there in the _interweb_, you'll need to periodically check your blog for broken links. Doing that can be a very tedious task, so having a system do that for you, and for **completely free** doesn't get any better.
 
+#### Keyword research
+![Ubbersuggest](/assets/images/blogposts/ubbersuggest.jpg)
+[Ubbersuggests](https://app.neilpatel.com/) is one of those mandatory tools bloggers need. If you're expecting your articles to be found on Search Engines Result Pages (also known as SERP), and you want them to also rank high, normally in the first page, then you need to do keyword research.
+And what does that mean? You need tools to help you understand what kind of keywords to target on your blog, how difficult is it for you to rank high for them and even, who else is _already_ ranking for those keywords?
+[Ubbersuggests](https://app.neilpatel.com/) is the tool for you, why? Because it's completely **FREE**, other tools will give you a small glimps of the results, and then will try to charge you for the entire list, but this app is ready for you to use. They offer keyword research, domain research (it'll tell you about your backlinks, domain authority, and other interesting SEO factors), it'll even show you some content ideas based on the keywords you input (also based on other, already published, articles and the social impact they have had).
+So, whatever tools you try to use from this list, remember to bookmark this one, you'll thank me later!
 
 
 ## Conclusion
-So that is it for my list of favorite blogging tools. I tried to stick to free tools or at least, the ones that provide a free tier to start with because I feel like those are the ideal tools for beginners. 
+That is it for my list of best blogging tools for 2019. I tried to stick to free tools or at least, the ones that provide a free tier to start with because I feel like those are the ideal tools for beginners. 
+
 What about you? What are _your_ favorite ones and which ones have you tried from this list? Feel free to share and comment below, I'd love to hear back from you!
 
 <div class="sharethis-inline-share-buttons"></div>
