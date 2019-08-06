@@ -11,6 +11,8 @@ description: In this series, I'll be asking successful bloggers some key questio
 tags: [blogging, learning, success stories]
 redirect_from:
     - /2019/07/18/success-stories-lauren-monitz.html
+    - /2019/09/18/success-stories-lauren-monitz
+    - /2019/09/18/success-stories-lauren-monitz.html
 ---
 
 # Success Stories: a conversation with Lauren Monitz

@@ -6,15 +6,14 @@ title: "My Writing Corner | Contact information"
 </div>
 
 # Get in touch!
-Are you looking to get in touch with me? You can find me on [Twitter](http://twitter.com/deleteman123) or, if you feel like a more personal conversation is needed, write me an [email](mailto:fernando.doglio@gmail.com).
+Are you looking to get in touch with me? You can find me on [Twitter](http://twitter.com/deleteman123) or, if you feel like a more personal conversation is needed, write me an [email](mailto:fernando.doglio@gmail.com), I'm always interested in collaboration opportunities and sponsored work, so don't hesitate to write!.
 
 ## Would you like to write a guest post for the blog?
-Perfect! I'd love to publish it! Just send me an email with your idea, and we'll work through it. If your idea is inline with the theme of _My Writing Corner_, then we'll go ahead and publish it.
+Perfect! I'd love to publish it! Just send me an email with your idea, and we'll work through it. If your idea is in-line with the theme of _My Writing Corner_, then we'll go ahead and publish it.
 Things to keep in mind:
 
 - Try to make sure your submitting your own work.
-- I don't care if you've published it somewhere else, we can add the canonical URL to the meta tags.
-- I'm not paying for blog posts right now.
-- Length is not an issue, just make sure it's not shorter than 400 words.
+- I'm not paying for blog posts right now, so make sure you're OK with that.
+- Length is not an issue, just make sure it's not shorter than 700 words.
 
-That is it, again, feel free to contact me if you want to work something out!
+That is it, feel free to contact me if you want to work something out!

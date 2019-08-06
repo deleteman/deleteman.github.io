@@ -35,7 +35,7 @@ header {
 .blogpost {
     padding: 0px;
     background-color: #efefef;
-    width: 44%;
+    width: 360px;
     float: left;
     margin: 20px;
     display: flex;
@@ -96,7 +96,7 @@ header {
 }
 
 .about-with-picture img{
-    width: 300px;
+    width: 130px;
     float: left;
     margin-right: 10px;
 }
@@ -135,7 +135,14 @@ header {
     font-weight: bold;
 }
 
-body {font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;color: #666;font-weight: 300;margin: 0px;padding: 0px 0 20px 0px;background: url(../images/body-background.png) #eae6d1;}
+body {
+    font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #666;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 0 0px 0px;
+    background: url(../images/body-background.png) #eae6d1;
+}
 
 .relatedPosts {
     padding: 10px;
@@ -173,10 +180,16 @@ body {font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, s
 
 section {
     width: 90%;
+    margin: 190px auto;
+    margin-bottom: 0px;
+}
+
+section.post {
+    width: 50%;
 }
 
 .wrapper {
-    width: 800px;
+    width: 100%;
 }
 
 .sharethis-inline-share-buttons {
@@ -190,7 +203,8 @@ nav {
 }
 
 .post-header-img {
-    width: 100%;
+    width: 500px;
+    margin: 0 auto;
 }
 .post-header-img img {
     width: 100%;
@@ -198,12 +212,14 @@ nav {
 
 footer {
     width: 100%;
-    bottom: 20px;
     position: relative;
-    margin: 0;
+    bottom: 0px;
     left: 0;
     text-align: right;
     line-height: 16px;
+    height: 485px;
+    background: #242222;
+    margin: 20px auto;
 }
 
 footer p {
@@ -211,6 +227,9 @@ footer p {
     padding: 15px;
 }
 
+.social-links {
+    float:left;
+}
 
 .social-links,
 .social-links ul {
@@ -316,6 +335,38 @@ div#flywheel-logo {
   #pages {
       width: 100%;
   }
+
+  div.footer-links-container {
+      float: left;
+      width: 100%;
+  }
+
+  section.post {
+      width: 100%;
+      padding: 0;
+  }
+  .add {
+      display: none;
+  }
+
+  div.post-content {
+      display: block;
+      float: none;
+      padding: 5px;
+  }
+
+  .post-header-img {
+      width: 100%;
+  }
+
+  .related-articles .blogpost {
+      margin: 9px;
+  }
+
+  #bw-logo {
+      display: none;
+  }
+
 }
 
 @media print, screen and (max-width: 1060px) {
@@ -346,8 +397,62 @@ p.page-title {
     text-align: center;
 }
 
-li.policies-links {
-    clear: both;
+.policies-links {
     margin:0;
+    float: none;
     padding: 0px;
+    text-align: left;
+    list-style: none;
+}
+
+.policies-links li {
+    padding: 5px;
+}
+
+.welcome-widget {
+    float: left;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-right: #888 1px solid;
+    text-align: center;
+    line-height: 28px;
+    font-size: 18px;
+}
+.welcome-widget a,
+.welcome-widget strong {
+    color: #eee;
+}
+
+.welcome-widget img {
+    width: 45%;
+    border-radius: 100px;
+}
+
+.footer-container {
+    width: 94%;
+    clear:both;
+    margin: 0 auto;
+}
+
+.footer-links-container {
+    width: 500px;
+}
+
+.post-content {
+    float: left;
+    display: inline-block;
+    height: 100%;
+}
+
+.add {
+    position: absolute;
+    right: -214px;
+}
+
+#bw-logo {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    width: 260px;
 }

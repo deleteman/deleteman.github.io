@@ -10,6 +10,8 @@ pinterestImage: /assets/images/pins/custom-wordpress-login-1.png
 description: Adding a login-form to your WordPress site is really easy, but what about the rest? Role-based access, logout pages and so on. Read here everything you need to setup your member's only area in your WordPress site.
 tags: [wordpress, tutorial, plugin]
 redirect_from:
+    - /2019/09/29/adding-login-form-to-wordpress
+    - /2019/09/29/adding-login-form-to-wordpress.html
     - /2019/07/29/adding-login-form-to-wordpress.html
 ---
 # Adding a custom WordPress login to your site in 2 easy steps

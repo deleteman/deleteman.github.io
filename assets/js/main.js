@@ -16,6 +16,7 @@ $(window).resize(sectionHeight);
 
 $(function() {
 
+  /*
   if(window.location.pathname == '/') { //If this is our home
     $("section h2").each(function(){
       let $next = $($(this).siblings("h3")[0])
@@ -30,6 +31,7 @@ $(function() {
   } else {
     $("#posts").hide()
   }
+  */
 
   $("nav#posts ul li").on("click", "a", function(event) {
     var position = $($(this).attr("href")).offset().top - 190;
