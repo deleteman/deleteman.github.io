@@ -10,6 +10,7 @@ tags: [blogging, lessons, learning]
 pinterestImage: /assets/images/pins/stranger-2.png
 redirect_from:
     - /2019/07/03/stranger-things-lessons.html
+    - /2019/07/03/stranger-things-lessons
 ---
 
 

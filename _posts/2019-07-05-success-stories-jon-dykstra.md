@@ -11,6 +11,7 @@ description: In this series, I'll be asking successful bloggers some key questio
 tags: [blogging, learning, success stories]
 redirect_from:
     - /2019/07/05/success-stories-jon-dykstra.html
+    - /2019/07/05/success-stories-jon-dykstra
 ---
 
 # Success Stories: a conversation with Jon Dykstra

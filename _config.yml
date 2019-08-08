@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
-permalink: pretty
+permalink: /:title
 future: true
 google_analytics: true
 title: My Writing Corner

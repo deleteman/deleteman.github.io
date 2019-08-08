@@ -8,6 +8,9 @@ image: assets/images/blogposts/ideas-for-articles.png
 description: If you're running out of ideas for blog posts, try these 5 tips to help you get back on track.
 tags: [recommendation, writing]
 pinterestImage: /assets/images/pins/blog-post-ideas.png
+redirect_from:
+    - /2019/06/10/getting-blogpost-ideas.html
+    - /2019/06/10/getting-blogpost-ideas
 ---
 
 # 5 Guaranteed Ways For Getting New Blog Post Ideas

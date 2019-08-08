@@ -10,6 +10,7 @@ tags: [recommendation, start a blog, tools, free]
 pinterestImage: /assets/images/pins/getting-blog-for-free.png
 redirect_from:
     - /2019/06/18/blog-for-free.html
+    - /2019/06/18/blog-for-free
 ---
 
 # 5 steps to starting your own blog for FREE

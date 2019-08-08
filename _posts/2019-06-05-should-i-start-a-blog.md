@@ -14,6 +14,7 @@ tags: [blogging, start a blog, begginners]
 pinterestImage: /assets/images/pins/starting-a-blog.png
 redirect_from:
     - /2019/06/05/should-i-start-a-blog.html
+    - /2019/06/05/should-i-start-a-blog
 ---
 
 # Should I start a blog?

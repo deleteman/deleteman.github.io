@@ -11,6 +11,7 @@ description: In this series, I'll be asking successful bloggers some key questio
 tags: [blogging, learning, success stories]
 redirect_from:
     - /2019/07/18/success-stories-victoria-sully.html
+    - /2019/07/18/success-stories-victoria-sully
 ---
 
 # Success Stories: a conversation with Victoria Sully

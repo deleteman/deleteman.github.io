@@ -13,6 +13,7 @@ redirect_from:
     - /2019/09/29/adding-login-form-to-wordpress
     - /2019/09/29/adding-login-form-to-wordpress.html
     - /2019/07/29/adding-login-form-to-wordpress.html
+    - /2019/07/29/adding-login-form-to-wordpress
 ---
 # Adding a custom WordPress login to your site in 2 easy steps
 #### {{page.date | date: "%B %e, %Y"}}

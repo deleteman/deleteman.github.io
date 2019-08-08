@@ -9,6 +9,7 @@ description: Learn how to choose the best blogging platform based on your partic
 tags: [recommendation, blogging platform, tools]
 redirect_from:
     - /2019/06/25/top-6-blogging-platforms.html
+    - /2019/06/25/top-6-blogging-platforms
 pinterestImage: /assets/images/pins/top-6-bloggingplatforms-3.png
 ---
 

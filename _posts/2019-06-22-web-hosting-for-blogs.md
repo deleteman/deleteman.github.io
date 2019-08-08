@@ -10,6 +10,7 @@ tags: [recommendation, web hosting, tools]
 pinterestImage: /assets/images/pins/best-webhosting.png
 redirect_from:
     - /2019/06/22/web-hosting-for-blogs.html
+    - /2019/06/22/web-hosting-for-blogs
 ---
 
 # Pick the Best Web Hosting for your Blogs

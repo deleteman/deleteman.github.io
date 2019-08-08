@@ -10,6 +10,7 @@ description: If you’ve been playing around and trying the waters with WordPres
 tags: [blogging, wordpress, wordpress plugins]
 redirect_from: 
     - /2019/07/15/wpforms-a-typeform-alternative-wordpress.html
+    - /2019/07/15/wpforms-a-typeform-alternative-wordpress
 ---
 
 

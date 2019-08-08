@@ -9,6 +9,7 @@ description: Get these 3 discounts for the month of July while they're still act
 tags: [recommendation, wordpress, discounts]
 redirect_from:
     - /2019/07/02/wordpress-discounts-july.html
+    - /2019/07/02/wordpress-discounts-july
 pinterestImage: /assets/images/pins/wordpress-discounts-july-1.png
 ---
 

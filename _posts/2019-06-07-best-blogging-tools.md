@@ -10,6 +10,7 @@ tags: [tools, recommendation, image, seo]
 pinterestImage: /assets/images/pins/best-blogging-tools.png
 redirect_from:
     - /2019/06/07/best-blogging-tools.html
+    - /2019/06/07/best-blogging-tools
 ---
 
 # Best blogging tools for 2019
