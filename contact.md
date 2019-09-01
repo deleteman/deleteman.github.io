@@ -19,4 +19,9 @@ Things to keep in mind:
 - You can have any number of links to your articles (as long as they make sense) and they'll be follow links
 - You may not add any referral links in the blog post, sorry but I'm only responsible for my own referrals.
 
-That is it, feel free to contact me if you want to work something out!
+That is it, feel free to contact me if you want to work something out! Or follow me on the social networks:
+
++ [Twitter](http://twitter.com/corner_writing)
++ [Facebook](https://www.facebook.com/my.corner.writing/)
++ [Pinterest](https://www.pinterest.com/mywritingcorner)
++ [Medium](https://medium.com/@fernando.doglio)
