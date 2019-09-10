@@ -456,3 +456,18 @@ p.page-title {
     right: 0;
     width: 260px;
 }
+
+.guest-author {
+    background: #eee;
+    padding: 10px;
+}
+
+.guest-author .author-pic {
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+}
+
+.guest-author p {
+    padding: 5px;
+}
