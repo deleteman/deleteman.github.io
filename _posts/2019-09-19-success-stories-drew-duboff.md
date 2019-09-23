@@ -28,7 +28,7 @@ Welcome to a new installment of "Success Stories", a series I created to try to 
 
 Today, I'm interviewing **Drew Duboff**, from [drewduboff.com](http://drewduboff.com).
 
-The way this works is: I send them a Google Form with the questions, and they take their time to answer them as detailed as they can. In this instance, Lauren shared some very interesting insights into her current blogging state, how long it took her to get some serious traffic and how much money she's spending monthly to keep everything working.
+The way this works is: I send them a Google Form with the questions, and they take their time to answer them as detailed as they can. In this instance, Drew shared some very interesting insights into his current blogging state, and what he thinks are the key points into getting your blog to grow.
 
 <p class="clear"/>
 
